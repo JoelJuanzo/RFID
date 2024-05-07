@@ -1,0 +1,199 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RFID/1.0.0": {
+        "dependencies": {
+          "LibUsbDotNet": "2.2.8.104",
+          "Microsoft.Office.Interop.Excel": "16.0.0.0",
+          "MySql.Data": "6.4.4.0",
+          "Symbol.RFID.SDK": "3.0.32.0",
+          "Symbol.RFID.SDK.USB": "3.0.32.0"
+        },
+        "runtime": {
+          "RFID.dll": {}
+        }
+      },
+      "LibUsbDotNet/2.2.8.104": {
+        "runtime": {
+          "LibUsbDotNet.dll": {
+            "assemblyVersion": "2.2.8.104",
+            "fileVersion": "2.2.8.104"
+          }
+        }
+      },
+      "Microsoft.Office.Interop.Excel/16.0.0.0": {
+        "runtime": {
+          "Microsoft.Office.Interop.Excel.dll": {
+            "assemblyVersion": "16.0.0.0",
+            "fileVersion": "16.0.13426.20110"
+          }
+        }
+      },
+      "MySql.Data/6.4.4.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "6.4.4.0",
+            "fileVersion": "6.4.4.0"
+          }
+        }
+      },
+      "Symbol.RFID.SDK/3.0.32.0": {
+        "runtime": {
+          "Symbol.RFID.SDK.dll": {
+            "assemblyVersion": "3.0.32.0",
+            "fileVersion": "3.0.32.0"
+          }
+        }
+      },
+      "Symbol.RFID.SDK.USB/3.0.32.0": {
+        "runtime": {
+          "Symbol.RFID.SDK.USB.dll": {
+            "assemblyVersion": "3.0.32.0",
+            "fileVersion": "3.0.32.0"
+          }
+        }
+      },
+      "office/16.0.0.0": {
+        "runtime": {
+          "office.dll": {
+            "assemblyVersion": "16.0.0.0",
+            "fileVersion": "16.0.13901.20148"
+          }
+        }
+      },
+      "Microsoft.Vbe.Interop/16.0.0.0": {
+        "runtime": {
+          "Microsoft.Vbe.Interop.dll": {
+            "assemblyVersion": "16.0.0.0",
+            "fileVersion": "16.0.11929.20102"
+          }
+        }
+      },
+      "Symbol.RFID.SDK.Domain.Reader.Infrastructure/3.0.32.0": {
+        "runtime": {
+          "Symbol.RFID.SDK.Domain.Reader.Infrastructure.dll": {
+            "assemblyVersion": "3.0.32.0",
+            "fileVersion": "3.0.32.0"
+          }
+        }
+      },
+      "Symbol.RFID.SDK.Domain.Reader/3.0.32.0": {
+        "runtime": {
+          "Symbol.RFID.SDK.Domain.Reader.dll": {
+            "assemblyVersion": "3.0.32.0",
+            "fileVersion": "3.0.32.0"
+          }
+        }
+      },
+      "RFIDCommandLib/3.0.32.0": {
+        "runtime": {
+          "RFIDCommandLib.dll": {
+            "assemblyVersion": "3.0.32.0",
+            "fileVersion": "3.0.32.0"
+          }
+        }
+      },
+      "Symbol.Extensions.Compatibility/2.1.9.0": {
+        "runtime": {
+          "Symbol.Extensions.Compatibility.dll": {
+            "assemblyVersion": "2.1.9.0",
+            "fileVersion": "2.1.9.0"
+          }
+        }
+      },
+      "stdole/7.0.3300.0": {
+        "runtime": {
+          "stdole.dll": {
+            "assemblyVersion": "7.0.3300.0",
+            "fileVersion": "7.0.9466.1"
+          }
+        }
+      },
+      "Symbol.RFID.SDK.Logger/3.0.32.0": {
+        "runtime": {
+          "Symbol.RFID.SDK.Logger.dll": {
+            "assemblyVersion": "3.0.32.0",
+            "fileVersion": "3.0.32.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RFID/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibUsbDotNet/2.2.8.104": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Office.Interop.Excel/16.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data/6.4.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Symbol.RFID.SDK/3.0.32.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Symbol.RFID.SDK.USB/3.0.32.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "office/16.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Vbe.Interop/16.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Symbol.RFID.SDK.Domain.Reader.Infrastructure/3.0.32.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Symbol.RFID.SDK.Domain.Reader/3.0.32.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RFIDCommandLib/3.0.32.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Symbol.Extensions.Compatibility/2.1.9.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "stdole/7.0.3300.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Symbol.RFID.SDK.Logger/3.0.32.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

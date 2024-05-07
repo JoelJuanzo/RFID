@@ -1,0 +1,147 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="panel1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="closeButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="printButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="printButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        AElFTkSuQmCC
+</value>
+  </data>
+  <metadata name="sectionComboBox.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="attendanceMonthCalendar.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="panel2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="attendanceDataGridView.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="DateColumn.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="LRNColumn.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="fullNameColumn.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="timeInAMColumn.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="timeOutAMColumn.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="timeInPMColumn.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="timeOutPMColumn.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>44</value>
+  </metadata>
+</root>
